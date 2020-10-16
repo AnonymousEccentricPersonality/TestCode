@@ -1,0 +1,42 @@
+body{
+font-family:"Calibri";
+display:inline;
+font-size:20px;
+}
+table{
+position:fixed;
+background-color:white;
+}
+th{
+height:10px;
+width:130px;
+}
+#hor:active,#hor:hover{
+padding:2px;
+border-bottom:3px solid orange;
+color:orange;
+}
+#heading{
+color:white;
+}
+#bg{
+background-color:black;
+border-radius:4px;
+font-weight:normal;
+}
+.barder{
+border-bottom:1px dashed rgb(0,0,0,0.5);
+}
+#floa{
+float:left;
+width:25%;
+padding:10px;
+border-radius:4px;
+box-shadow:2px 2px 5px black;
+}
+iframe{
+float:right;
+width:25%;
+height:1000px;
+}
+
